@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../../../Downloads/guessing-game-buttons"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "guessing-game"
+  }
+}
