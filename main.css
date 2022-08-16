@@ -45,7 +45,7 @@
 #guessFour,
 #guessFive {
   position: absolute;
-  bottom: 25%;
+  bottom: 50%;
   width: 100%;
   text-align: center;
 }
